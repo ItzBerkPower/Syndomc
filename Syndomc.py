@@ -126,12 +126,6 @@ async def jobs(ctx):
 
     await ctx.send(embed = em)
 
-#@client.command()
-#async def work(ctx, name):
-
-
-
-
 #Balance command
 @client.command(aliases = ["bal"])
 async def balance(ctx):
