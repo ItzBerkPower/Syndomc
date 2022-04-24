@@ -1,4 +1,4 @@
-# Syndomc
+# Syndomc (Discord Bot)
 
 Economy Discord bot made using the Discord.py module.
 
